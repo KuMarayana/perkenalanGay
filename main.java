@@ -1,7 +1,7 @@
 import javax.swing.*;
 
 
-public class UseOtionsPanes {
+public class main {
 
     public static void main(String [] args) {
 
